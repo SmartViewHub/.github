@@ -3,6 +3,7 @@
 This is a lightweight, responsive web application that displays the current date, time, weather conditions, and geographical location, built entirely with free and open-source tools.
 
 🔍 App Features
+
 ✅ Live Date & Time: Updates every second based on the local system clock.
 
 ☀️ Current Weather Conditions: Uses the user's location to show temperature, windspeed, and weather icons based on real-time data.
@@ -25,6 +26,7 @@ OpenStreetMap Nominatim for reverse geocoding.
 Browser Geolocation API for live location access.
 
 🔗 Deployment
+
 The project was deployed using the GitHub pages platform.
 
 📂 Potential Use Cases
