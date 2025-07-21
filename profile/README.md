@@ -1,6 +1,6 @@
 📅 SmartView Hub Weather Clock Web Application
 
-This is a lightweight, responsive web application that displays the current date, time, weather conditions, and geographical location, built entirely with free and open-source tools.
+SmartView Hub is a lightweight, responsive web application that displays the current date, time, weather conditions, and geographical location, built entirely with free and open-source tools.
 
 🔍 App Features
 
