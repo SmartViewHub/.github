@@ -4,7 +4,7 @@ A lightweight, responsive web application that displays the current date, time, 
 
 🔍 App Features
 
-✅ Live Date & Time: Updates every second based on the local system clock.
+✅ Live Date & Time: Updates time based on the local system clock.
 
 ☀️ Current Weather Conditions: Uses the user's location to show temperature, windspeed, and weather icons based on real-time data.
 
@@ -14,10 +14,10 @@ A lightweight, responsive web application that displays the current date, time, 
 
 💡 No API Keys Required: Utilizes free and publicly accessible APIs (Open-Meteo and OpenStreetMap’s Nominatim).
 
-🌐 Fully Client-Side: Built with HTML, CSS, and vanilla JavaScript—no frameworks, servers, or databases.
+🌐 Fully Client-Side: Built purely with HTML—no frameworks, servers, or databases.
 
 🧰 Tools and Technologies
-HTML/CSS/JavaScript (Vanilla).
+HTML.
 
 Open-Meteo for weather data.
 
