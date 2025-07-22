@@ -17,6 +17,7 @@ A lightweight, responsive web application that displays the current date, time, 
 🌐 Fully Client-Side: Built purely with HTML and embedded CSS/JavaScript—no frameworks, servers, or databases.
 
 🧰 Tools and Technologies
+
 HTML with embedded CSS/JavaScript.
 
 Open-Meteo for weather data.
