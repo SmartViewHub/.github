@@ -14,10 +14,10 @@ A lightweight, responsive web application that displays the current date, time, 
 
 💡 No API Keys Required: Utilizes free and publicly accessible APIs (Open-Meteo and OpenStreetMap’s Nominatim).
 
-🌐 Fully Client-Side: Built purely with HTML—no frameworks, servers, or databases.
+🌐 Fully Client-Side: Built purely with HTML and embedded CSS/JavaScript—no frameworks, servers, or databases.
 
 🧰 Tools and Technologies
-HTML.
+HTML with embedded CSS/JavaScript.
 
 Open-Meteo for weather data.
 
